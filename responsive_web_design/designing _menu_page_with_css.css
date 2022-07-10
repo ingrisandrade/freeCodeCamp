@@ -71,6 +71,18 @@ a {
   color: black;
 }
 
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
+
 footer {
   font-size: 14px;
 }
