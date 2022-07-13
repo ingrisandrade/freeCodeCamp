@@ -9,9 +9,9 @@ _The full-stack web development and machine learning curriculum is completely fr
 freeCodeCamp.org offers several free developer certifications. Each of these certifications involves building 5 required web app projects, along with hundreds of optional coding challenges to help you prepare for those projects. We estimate that each certification will take a beginner programmer around 300 hours to earn.
 
 1. Responsive Web Design Certification
-    - [ ] _Learn HTML by Building a Cat Photo App_
-    - [ ] _Learn Basic CSS by Building a Cafe Menu_
-    - [ ] _Learn CSS Colors by Building a Set of Colored Markers_
+    - [x] _Learn HTML by Building a Cat Photo App_
+    - [x] _Learn Basic CSS by Building a Cafe Menu_
+    - [x] _Learn CSS Colors by Building a Set of Colored Markers_
     - [ ] _Learn HTML Forms by Building a Registration Form_
     - [ ] _Learn the CSS Box Model by Building a Rothko Painting_
     - [ ] _Learn CSS Flexbox by Building a Photo Gallery_
